@@ -1,0 +1,4 @@
+git submodule update --init
+mkdir build && cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release -DUSE_SINGLE_THREAD=0 -DYURCO_TRANSPARENCY=1
+make

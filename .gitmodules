@@ -1,0 +1,6 @@
+[submodule "yurco"]
+	path = yurco
+	url = git@github.com:yurial/yurco.git
+[submodule "unistd"]
+	path = unistd
+	url = git@github.com:yurial/unistd.git
